@@ -2,11 +2,11 @@
 
 > Implementation of Timestamp 48 bit with AI
 
-**Deadline:** 31 Aug 2025 (23:59 GMT+3)
-**Language:** JavaScript with Web API or Node.js API (do not use npm dependencies)
-**Runtime:** Any browser, Node.js, Deno, Bun (or other JavaScript engine)
-**Focus:** Performance and maintainability
-**Prizes:** best performance wins a free seat in one of my courses (Node.js, Async programming, Patterns, Architecture). Metarhia alumni may also win an extra free seat. So I will give two free seats for two winners.
+- **Deadline:** 31 Aug 2025 (23:59 GMT+3)
+- **Language:** JavaScript with Web API or Node.js API (do not use npm dependencies)
+- **Runtime:** Any browser, Node.js, Deno, Bun (or other JavaScript engine)
+- **Focus:** Performance and maintainability
+- **Prizes:** best performance wins a free seat in one of my courses (Node.js, Async programming, Patterns, Architecture). Metarhia alumni may also win an extra free seat. So I will give two free seats for two winners.
 
 ## Task
 
